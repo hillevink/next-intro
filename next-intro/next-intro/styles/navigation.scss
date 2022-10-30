@@ -1,0 +1,12 @@
+.navigation {
+  background-color: white;
+  ul {
+    display: flex;
+    gap: 3rem;
+    color: black;
+    padding: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 160%;
+  }
+}
